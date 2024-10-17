@@ -10,7 +10,7 @@ body {
 }
 
 section {
-    background: linear-gradient(rgba(6, 17, 18, 0.7), rgba(147, 158, 2, 0.7)), url("/pampa/css/pampa.jpg");
+    background: linear-gradient(rgba(6, 17, 18, 0.7), rgba(147, 158, 2, 0.7)), url("pampa/css/pampa.jpg");
     background-color: #adb301; /* Fallback background color */
     background-size: cover; /* Ajusta a imagem para cobrir todo o elemento */
     background-position: center;
