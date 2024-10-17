@@ -10,7 +10,7 @@ body {
 }
 
 section {
-    background: linear-gradient(rgba(6, 17, 18, 0.7), rgba(113, 74, 15, 0.7)), url("/caatinga/css/caatinga.png");
+    background: linear-gradient(rgba(6, 17, 18, 0.7), rgba(113, 74, 15, 0.7)), url("caatinga/css/caatinga.png");
     background-color: #b77709; /* Fallback background color */
     background-size: cover; /* Ajusta a imagem para cobrir todo o elemento */
     background-position: center;
