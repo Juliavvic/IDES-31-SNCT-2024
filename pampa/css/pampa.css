@@ -1,0 +1,51 @@
+body {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background: linear-gradient(rgb(65, 72, 5), rgb(187, 175, 3));
+    color: #ffffff;
+    max-width: 100%;
+    margin: 0;
+    padding: 0;
+    line-height: 1.6;
+    font-size: 18px;
+}
+
+section {
+    background: linear-gradient(rgba(6, 17, 18, 0.7), rgba(147, 158, 2, 0.7)), url("/pampa/css/pampa.jpg");
+    background-color: #adb301; /* Fallback background color */
+    background-size: cover; /* Ajusta a imagem para cobrir todo o elemento */
+    background-position: center;
+    margin: 0;
+    padding: 0;
+    border-radius: 10px;
+}
+
+h2{
+    font-size: 1.5em;
+    background-color: #2e2f09;
+    height: 70px;
+    width: 100%;
+    text-align: start;
+    display: flex;
+    align-items: center;
+    padding-left: 20px; /* Ajuste o valor conforme necessário */
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 10px;
+}
+
+li {
+    list-style-type: circle;
+}
+
+footer {
+    background-color: #003366; /* Azul marinho */
+    color: #ffffff; /* Texto branco */
+    text-align: center;
+    padding: 10px;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+}
