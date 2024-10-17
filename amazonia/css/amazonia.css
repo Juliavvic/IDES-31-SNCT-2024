@@ -11,7 +11,7 @@ body {
 }
 
 section {
-    background: linear-gradient(rgba(6, 17, 18, 0.7), rgba(40, 103, 42, 0.7)), url("/amazonia/css/amazonia.png");
+    background: linear-gradient(rgba(6, 17, 18, 0.7), rgba(40, 103, 42, 0.7)), url("amazonia/css/amazonia.png");
     background-color: #064b12; /* Fallback background color */
     background-size: cover; /* Ajusta a imagem para cobrir todo o elemento */
     background-position: center;
