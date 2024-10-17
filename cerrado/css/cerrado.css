@@ -10,7 +10,7 @@ body {
 }
 
 section {
-    background: linear-gradient(rgba(6, 17, 18, 0.7), rgba(145, 94, 27, 0.7)), url("/cerrado/css/cerrado1.jpg");
+    background: linear-gradient(rgba(6, 17, 18, 0.7), rgba(145, 94, 27, 0.7)), url("cerrado/css/cerrado1.jpg");
     background-color: #f6981e; /* Fallback background color */
     background-size: cover; /* Ajusta a imagem para cobrir todo o elemento */
     background-position: center;
