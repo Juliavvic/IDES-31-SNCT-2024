@@ -101,7 +101,7 @@ section h1 {
 }
 
 .bioma-amazonas {
-    background: linear-gradient(rgba(6, 17, 18, 0.7), rgba(40, 103, 42, 0.7)), url("/css/amazonia.png"); ; 
+    background: linear-gradient(rgba(6, 17, 18, 0.7), rgba(40, 103, 42, 0.7)), url("css/amazonia.png"); ; 
     background-size: cover; /* Ajusta a imagem para cobrir todo o elemento */
     background-position: center;
     padding: 15px;
@@ -113,7 +113,7 @@ section h1 {
 }
 
 .bioma-cerrado {
-    background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(103, 91, 40, 0.7)), url("/css/cerrado.png"); ; 
+    background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(103, 91, 40, 0.7)), url("css/cerrado.png"); ; 
     background-size: cover; /* Ajusta a imagem para cobrir todo o elemento */
     background-position: center;
     padding: 15px;
@@ -125,7 +125,7 @@ section h1 {
 }
 
 .bioma-mata {
-    background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(30, 65, 35, 0.7)), url("/css/mata_atlantica.png"); ; 
+    background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(30, 65, 35, 0.7)), url("css/mata_atlantica.png"); ; 
     background-size: cover; /* Ajusta a imagem para cobrir todo o elemento */
     background-position: center;
     padding: 15px;
@@ -137,7 +137,7 @@ section h1 {
 }
 
 .bioma-caatinga {
-    background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(130, 101, 49, 0.7)), url("/css/caatinga.png"); ; 
+    background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(130, 101, 49, 0.7)), url("css/caatinga.png"); ; 
     background-size: cover; /* Ajusta a imagem para cobrir todo o elemento */
     background-position: center;
     padding: 15px;
@@ -149,7 +149,7 @@ section h1 {
 }
 
 .bioma-pantanal {
-    background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(29, 56, 20, 0.7)), url("/css/pantanal.png"); ; 
+    background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(29, 56, 20, 0.7)), url("css/pantanal.png"); ; 
     background-size: cover; /* Ajusta a imagem para cobrir todo o elemento */
     background-position: center;
     padding: 15px;
@@ -161,7 +161,7 @@ section h1 {
 }
 
 .bioma-pampa {
-    background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(88, 105, 46, 0.7)), url("/css/pampa.jpg");
+    background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(88, 105, 46, 0.7)), url("css/pampa.jpg");
     background-size: cover; /* Ajusta a imagem para cobrir todo o elemento */
     background-position: center;
     padding: 15px;
