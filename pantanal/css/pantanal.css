@@ -10,7 +10,7 @@ body {
 }
 
 section {
-    background: linear-gradient(rgba(6, 17, 18, 0.7), rgba(39, 93, 14, 0.7)), url("/pantanal/css/pantanal.png");
+    background: linear-gradient(rgba(6, 17, 18, 0.7), rgba(39, 93, 14, 0.7)), url("pantanal/css/pantanal.png");
     background-color: #1a6e01; /* Fallback background color */
     background-size: cover; /* Ajusta a imagem para cobrir todo o elemento */
     background-position: center;
